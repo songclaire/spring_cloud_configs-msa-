@@ -1,5 +1,5 @@
 jwt:
-  expiration: 1
+  expiration: 1000
   #  인코딩된 문자 32자 이상 필요.(특수문자안됨)
   #  beyondaccesstokensecretkeybeyondaccesstokensecretkeybeyondaccesstokensecretkey
   # 토큰을 만들어주는 중요한 소스
